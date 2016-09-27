@@ -20,6 +20,11 @@ MyEditor $PROFILE
 ```
 ```powershell
 # $Microsoft.PowerShell_profile.ps1
+Function Show-Notification
+{
+    ...
+}
+
 Function Start-Pomodoro
 {
     ...

@@ -20,7 +20,7 @@ Start-Pomodoro -Minutes 5
 ```
 to specify the time.
 
-## Integrate into Profile
+## Integrate into `Profile`
 For convenience, add the `pm.ps1` content to your ```$PROFILE``` and add an alias.
 
 ```powershell

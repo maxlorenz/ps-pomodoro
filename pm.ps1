@@ -43,7 +43,7 @@ Function Start-Pomodoro {
                        -Activity "Timer" `
                        -Status "Time remaining:" `
                        -PercentComplete $percentComplete
-
+                       
         Start-Sleep -Seconds 1
     }
 

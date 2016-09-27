@@ -19,7 +19,7 @@ For convenience, add the `pm.ps1` content to your ```$PROFILE``` and add an alia
 MyEditor $PROFILE
 ```
 ```powershell
-# $Microsoft.PowerShell_profile.ps1
+# Microsoft.PowerShell_profile.ps1
 Function Show-Notification
 {
     ...

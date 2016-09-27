@@ -1,7 +1,10 @@
 # ps-pomodoro
 Simple Pomodoro in PowerShell
 
+During execution:
 ![Running script](https://raw.githubusercontent.com/maxlorenz/ps-pomodoro/master/Screenshots/running.PNG)
+
+Notification:
 ![Notification](https://raw.githubusercontent.com/maxlorenz/ps-pomodoro/master/Screenshots/notification.PNG)
 
 ## Usage

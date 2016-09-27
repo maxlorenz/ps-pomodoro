@@ -1,6 +1,9 @@
 # ps-pomodoro
 Simple Pomodoro in PowerShell
 
+![Running script](https://raw.githubusercontent.com/maxlorenz/ps-pomodoro/master/Screenshots/running.PNG)
+![Notification](https://raw.githubusercontent.com/maxlorenz/ps-pomodoro/master/Screenshots/notification.PNG)
+
 ## Usage
 Simply use
 ```powershell
